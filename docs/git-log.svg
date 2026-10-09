@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" rx="24" fill="#111827"/>
+<rect x="0" y="0" width="1200" height="54" rx="24" fill="#1F2937"/>
+<circle cx="28" cy="27" r="7" fill="#F87171"/><circle cx="52" cy="27" r="7" fill="#FBBF24"/><circle cx="76" cy="27" r="7" fill="#34D399"/>
+<text x="600" y="33" text-anchor="middle" font-family="Consolas, monospace" font-size="15" fill="#9CA3AF">PowerShell - git log --oneline --decorate --graph --all</text>
+<text x="44" y="102" font-family="Consolas, monospace" font-size="22" fill="#93C5FD">*</text><text x="78" y="102" font-family="Consolas, monospace" font-size="21" fill="#FBBF24">2258e7d</text><text x="230" y="102" font-family="Consolas, monospace" font-size="21" fill="#E5E7EB">docs: 添加第二次结对作业博客稿</text>
+<text x="44" y="188" font-family="Consolas, monospace" font-size="22" fill="#93C5FD">*</text><text x="78" y="188" font-family="Consolas, monospace" font-size="21" fill="#FBBF24">ab1402a</text><text x="230" y="188" font-family="Consolas, monospace" font-size="21" fill="#E5E7EB">docs: 补充README、PSP、测试报告与流程图</text>
+<text x="44" y="274" font-family="Consolas, monospace" font-size="22" fill="#93C5FD">*</text><text x="78" y="274" font-family="Consolas, monospace" font-size="21" fill="#FBBF24">51332e7</text><text x="230" y="274" font-family="Consolas, monospace" font-size="21" fill="#E5E7EB">feat: 完成校园失物招领Web界面与交互</text>
+<text x="44" y="360" font-family="Consolas, monospace" font-size="22" fill="#93C5FD">*</text><text x="78" y="360" font-family="Consolas, monospace" font-size="21" fill="#FBBF24">110c24d</text><text x="230" y="360" font-family="Consolas, monospace" font-size="21" fill="#E5E7EB">feat: 实现失物招领数据逻辑与14项单元测试</text>
+<text x="78" y="418" font-family="Consolas, monospace" font-size="15" fill="#6EE7B7">(root commit)</text>
+<text x="44" y="520" font-family="Consolas, monospace" font-size="18" fill="#60A5FA">&gt; 每次完成一个独立功能后提交，提交信息说明新增或修改内容。</text>
+<text x="44" y="565" font-family="Microsoft YaHei, Arial" font-size="15" fill="#9CA3AF">陈飞扬 102402118 · 蔡以恒 102402117</text>
+</svg>
