@@ -87,10 +87,11 @@ node --test tests/store.test.js
 - `styles.css` 提供响应式布局和状态型视觉反馈。
 - `tests/store.test.js` 对数据逻辑进行白盒测试。
 
-![应用结构](docs/images/architecture.png)
+![应用结构](docs/architecture.svg)
 
-![核心业务流程](docs/images/user-flow.png)
+![核心业务流程](docs/user-flow.svg)
 
 ## 提交说明
 
 本仓库名称为 `102402118-102402117`，符合“第一个学号-第二个学号”的命名要求。项目可以通过 GitHub 进行协作，另一名成员可以 Fork 后通过 Pull Request 提交修改。
+
