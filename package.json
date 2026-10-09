@@ -1,0 +1,10 @@
+{
+  "name": "campus-lost-found",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/store.test.js",
+    "start": "python -m http.server 8080"
+  },
+  "description": "校园失物招领 Web 应用，支持发布、搜索、详情、联系方式和状态更新。"
+}
