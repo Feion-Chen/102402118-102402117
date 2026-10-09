@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="9" refY="4" orient="auto"><path d="M0,0 L0,8 L10,4 z" fill="#3267E3"/></marker></defs>
+<rect width="1200" height="700" rx="28" fill="#F4F7FC"/>
+<text x="60" y="70" font-family="Microsoft YaHei, Arial" font-size="30" font-weight="800" fill="#18213A">校园失物招领 Web 应用结构与数据流</text>
+<text x="60" y="102" font-family="Microsoft YaHei, Arial" font-size="14" fill="#72809A">浏览器端单页应用，逻辑层与界面层分离，不需要安装第三方依赖。</text>
+<rect x="60" y="150" width="300" height="170" rx="22" fill="#EAF1FF" stroke="#BDD0FA"/>
+<text x="210" y="190" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="20" font-weight="800" fill="#3267E3">界面层</text>
+<text x="210" y="230" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">index.html</text>
+<text x="210" y="258" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">styles.css</text>
+<text x="210" y="286" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">app.js</text>
+<rect x="450" y="150" width="300" height="170" rx="22" fill="#E8F7F1" stroke="#B7E3D3"/>
+<text x="600" y="190" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="20" font-weight="800" fill="#26966E">逻辑层</text>
+<text x="600" y="230" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">store.js</text>
+<text x="600" y="258" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">筛选、校验、状态转换</text>
+<text x="600" y="286" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">LostFoundStore</text>
+<rect x="840" y="150" width="300" height="170" rx="22" fill="#FFF4D8" stroke="#E8CF8A"/>
+<text x="990" y="190" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="20" font-weight="800" fill="#A96F12">数据层</text>
+<text x="990" y="230" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">localStorage</text>
+<text x="990" y="258" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">信息与图片 Data URL</text>
+<text x="990" y="286" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">无需后端服务</text>
+<line x1="360" y1="235" x2="440" y2="235" stroke="#3267E3" stroke-width="4" marker-end="url(#arrow)"/>
+<line x1="750" y1="235" x2="830" y2="235" stroke="#3267E3" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="60" y="400" width="1080" height="210" rx="22" fill="#FFFFFF" stroke="#E2E8F2"/>
+<text x="90" y="446" font-family="Microsoft YaHei, Arial" font-size="19" font-weight="800" fill="#18213A">主要数据流</text>
+<g font-family="Microsoft YaHei, Arial" font-size="14" fill="#53617A">
+<rect x="95" y="490" width="180" height="70" rx="16" fill="#EAF1FF"/><text x="185" y="531" text-anchor="middle">用户发布/搜索</text>
+<line x1="275" y1="525" x2="340" y2="525" stroke="#3267E3" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="345" y="490" width="210" height="70" rx="16" fill="#E8F7F1"/><text x="450" y="531" text-anchor="middle">store.js 校验与筛选</text>
+<line x1="555" y1="525" x2="620" y2="525" stroke="#3267E3" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="625" y="490" width="210" height="70" rx="16" fill="#FFF4D8"/><text x="730" y="531" text-anchor="middle">localStorage 持久化</text>
+<line x1="835" y1="525" x2="900" y2="525" stroke="#3267E3" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="905" y="490" width="200" height="70" rx="16" fill="#F1EAFE"/><text x="1005" y="531" text-anchor="middle">页面重新渲染</text>
+</g>
+<text x="60" y="665" font-family="Microsoft YaHei, Arial" font-size="13" fill="#72809A">陈飞扬 102402118 · 蔡以恒 102402117</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="9" refY="4" orient="auto"><path d="M0,0 L0,8 L10,4 z" fill="#3267E3"/></marker></defs>
+<rect width="1200" height="620" rx="28" fill="#F4F7FC"/>
+<text x="60" y="70" font-family="Microsoft YaHei, Arial" font-size="30" font-weight="800" fill="#18213A">核心业务流程</text>
+<rect x="70" y="150" width="240" height="90" rx="20" fill="#EAF1FF"/><text x="190" y="202" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="18" font-weight="700" fill="#3267E3">浏览或搜索信息</text>
+<line x1="310" y1="195" x2="395" y2="195" stroke="#3267E3" stroke-width="4" marker-end="url(#a)"/>
+<rect x="400" y="150" width="240" height="90" rx="20" fill="#E8F7F1"/><text x="520" y="202" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="18" font-weight="700" fill="#26966E">查看物品详情</text>
+<line x1="640" y1="195" x2="725" y2="195" stroke="#3267E3" stroke-width="4" marker-end="url(#a)"/>
+<rect x="730" y="150" width="240" height="90" rx="20" fill="#FFF4D8"/><text x="850" y="202" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="18" font-weight="700" fill="#A96F12">复制联系方式</text>
+<rect x="70" y="350" width="240" height="90" rx="20" fill="#EAF1FF"/><text x="190" y="402" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="18" font-weight="700" fill="#3267E3">填写发布表单</text>
+<line x1="310" y1="395" x2="395" y2="395" stroke="#3267E3" stroke-width="4" marker-end="url(#a)"/>
+<rect x="400" y="350" width="240" height="90" rx="20" fill="#E8F7F1"/><text x="520" y="402" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="18" font-weight="700" fill="#26966E">校验并发布成功</text>
+<line x1="640" y1="395" x2="725" y2="395" stroke="#3267E3" stroke-width="4" marker-end="url(#a)"/>
+<rect x="730" y="350" width="240" height="90" rx="20" fill="#FFF4D8"/><text x="850" y="402" text-anchor="middle" font-family="Microsoft YaHei, Arial" font-size="18" font-weight="700" fill="#A96F12">修改与持久化状态</text>
+<text x="60" y="565" font-family="Microsoft YaHei, Arial" font-size="14" fill="#72809A">核心闭环：发布 / 搜索 → 详情与联系 → 找到或归还 → 更新状态</text>
+</svg>
